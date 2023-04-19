@@ -9,7 +9,7 @@
 
 <!--ここから上はお決まりの定型文です-->
 
-<title>法規技術情報課、解散会</title>
+<title>BEV完成車開発統括部　BEV商品企画部　戦略企画課、発足会</title>
 
 <!--ここからが表現の書式などを決めるcssという部分-->
 
@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(20230331_026.JPG) center/cover no-repeat; 
+  background:url(20230419_000.JPG) center/cover no-repeat; 
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -138,46 +138,9 @@ CE/EE 6,000円   ACE 5,000円<br>
     
     
 <h2><span class="snow">発足会のスタート！</span></h2>
-<a href="20230331_001.JPG" data-lightbox="abc"><img src="20230331_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_002.JPG" data-lightbox="abc"><img src="20230331_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_003.JPG" data-lightbox="abc"><img src="20230331_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_004.JPG" data-lightbox="abc"><img src="20230331_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_005.JPG" data-lightbox="abc"><img src="20230331_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_006.JPG" data-lightbox="abc"><img src="20230331_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_007.JPG" data-lightbox="abc"><img src="20230331_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_008.JPG" data-lightbox="abc"><img src="20230331_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_009.JPG" data-lightbox="abc"><img src="20230331_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_010.JPG" data-lightbox="abc"><img src="20230331_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_011.JPG" data-lightbox="abc"><img src="20230331_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_012.JPG" data-lightbox="abc"><img src="20230331_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_013.JPG" data-lightbox="abc"><img src="20230331_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_014.JPG" data-lightbox="abc"><img src="20230331_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_015.JPG" data-lightbox="abc"><img src="20230331_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_016.JPG" data-lightbox="abc"><img src="20230331_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_017.JPG" data-lightbox="abc"><img src="20230331_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_018.JPG" data-lightbox="abc"><img src="20230331_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_019.JPG" data-lightbox="abc"><img src="20230331_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_020.JPG" data-lightbox="abc"><img src="20230331_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_021.JPG" data-lightbox="abc"><img src="20230331_021.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_022.JPG" data-lightbox="abc"><img src="20230331_022.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_023.JPG" data-lightbox="abc"><img src="20230331_023.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_024.JPG" data-lightbox="abc"><img src="20230331_024.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_025.JPG" data-lightbox="abc"><img src="20230331_025.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_026.JPG" data-lightbox="abc"><img src="20230331_026.JPG" alt="サンプル画像" width="900" /></a>
-	
-<a href="20230331_027.JPG" data-lightbox="abc"><img src="20230331_027.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_028.JPG" data-lightbox="abc"><img src="20230331_028.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_029.JPG" data-lightbox="abc"><img src="20230331_029.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230331_030.JPG" data-lightbox="abc"><img src="20230331_030.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="snow">以下動画<br>限定公開です → このHPから飛ばないと見られません。</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HYHixQl4kF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rcqf3Pc3hEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rS8p7PBHefo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-WbOvMDtWV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -186,7 +149,7 @@ CE/EE 6,000円   ACE 5,000円<br>
 <h2><span class="snow">今回も幹事の皆様のご尽力で楽しませて頂きました！<br>どうもありがとう御座いました。
 	</span></h2>
 <footer>
-    <p><span class="snow">Copyright S.Hada 2023 @法規技術戦略課(BEV_PPD_SPD)</span></p>
+    <p><span class="snow">Copyright S.Hada 2023 @戦略企画課</span></p>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
