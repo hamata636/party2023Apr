@@ -150,7 +150,7 @@ CE/EE 6,000円   ACE 5,000円<br>
 <h2><span class="snow">今回も幹事の皆様のご尽力で楽しませて頂きました！<br>どうもありがとう御座いました。
 	</span></h2>
 <footer>
-    <p><span class="snow">Copyright S.Hada 2023 @戦略企画課</span></p>
+    <p><span class="snow">Copyright S.Hada 2023 @戦略企画課 法規技術戦略Gr</span></p>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
