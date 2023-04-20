@@ -136,9 +136,8 @@ CE/EE 6,000円   ACE 5,000円<br>
 <br><br>
 </span></h3>
     
-    
-<h2><span class="snow">発足会のスタート！</span></h2>
 <a href="20230419_000.jpg" data-lightbox="abc"><img src="20230419_000.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="snow">発足会のスタート！</span></h2>
 <a href="20230419_001.jpg" data-lightbox="abc"><img src="20230419_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230419_002.jpg" data-lightbox="abc"><img src="20230419_002.jpg" alt="サンプル画像" width="900" /></a>
 
